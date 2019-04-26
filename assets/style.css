@@ -130,7 +130,7 @@ height: 300px;
 /* override the bootstrap css */
 .carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
   display: block;
-  max-width: 100%;
+  width: 100%;
   height: 180px;
 }
 .main-section {
